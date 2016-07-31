@@ -1,0 +1,6 @@
+.base-board {
+  max-width: 400px;
+  max-height: 400px;
+  background-color: lightgrey;
+  box-shadow: 2px 2px 4px darkgrey;
+}
